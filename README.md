@@ -1,3 +1,13 @@
+# Dactyl-Arcade - the Ergonomic Fight Stick like Dactyl-Manuform
+
+# TODO
+- Instead of the key switches, create the holes of the arcade switches.
+- Nut for assembling the left, right and bottom parts.
+- Wrist rest.
+- Parameterized switch(key, arcarde), wrist and finger angle, distance of the switches.
+
+---
+
 # The Dactyl-ManuForm Keyboard
 This is a fork of the [Dactyl](https://github.com/adereth/dactyl-keyboard), a parameterized, split-hand, concave, columnar, ergonomic keyboard.
 

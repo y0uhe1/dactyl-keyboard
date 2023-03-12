@@ -8,3 +8,5 @@
 *.gcode
 *.scad
 /target
+.clj-kondo
+.lsp
